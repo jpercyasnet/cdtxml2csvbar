@@ -1,0 +1,1 @@
+iconv -f utf-16le -t UTF-8 CdTree20240304all.xml -o convt20240304all.xml
